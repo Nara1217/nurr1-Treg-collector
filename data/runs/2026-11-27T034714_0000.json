@@ -1,0 +1,25 @@
+{
+  "started_at": "2026-11-27T03:47:14+00:00",
+  "start": "2026-11-25",
+  "end": "2026-11-27",
+  "sources": {
+    "pubmed": {
+      "fetched": 32,
+      "matched": 5,
+      "new": 3
+    },
+    "biorxiv": {
+      "fetched": 420,
+      "matched": 0,
+      "new": 0
+    },
+    "medrxiv": {
+      "fetched": 69,
+      "matched": 0,
+      "new": 0
+    }
+  },
+  "saved": 3,
+  "errors": [],
+  "finished_at": "2026-11-27T03:47:49+00:00"
+}
